@@ -1,7 +1,5 @@
 # cias
 
-DSP1
-
-FreeShop
-
-JKSM
+* DSP1
+* FreeShop
+* JKSM
